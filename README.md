@@ -12,3 +12,6 @@
 ### 图表
 - 图中文本渲染错误出现异常的解决方式[[link](https://github.com/mohuangrui/ucasthesis/wiki/%E5%AD%97%E4%BD%93%E9%85%8D%E7%BD%AE#%E5%9B%BE%E4%B8%AD%E6%96%87%E6%9C%AC%E6%B8%B2%E6%9F%93%E9%94%99%E8%AF%AF%E5%87%BA%E7%8E%B0%E5%BC%82%E5%B8%B8%E5%8A%A0%E7%B2%97)]
 
+### 算法
+- 解决算法标题字号小的问题：在\begin{algorithm}后，\caption之前加入一行\captionsetup{font=normalsize}
+
